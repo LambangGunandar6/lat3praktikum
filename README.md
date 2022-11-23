@@ -59,5 +59,6 @@ menyelesaikannya.
 Hasil Output
 
 [ Gambar 6 ](perulangan/lat4.1.png)
+cekcek
 "Belum Selesai" 
 "up gambar" 
