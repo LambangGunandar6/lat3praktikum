@@ -6,11 +6,11 @@ Buat program sederhana dengan input 2 buah bilangan, kemudian
 tentukan bilangan terbesar dari kedua bilangan tersebut
 menggunakan statement if.
 
-[ Gambar 1 ](perulangan/lat1.png)
+![ Gambar 1 ](perulangan/lat1.png)
 
 Hasil Outputnya
 
-[ Gambar 1 ](perulangan/lat1.2.png)
+![ Gambar 1 ](perulangan/lat1.2.png)
 
 Penjelasan <br>
 line 1 mencetak string "Bilangan Terbesar ke Terkecil
@@ -24,11 +24,11 @@ Buat program untuk mengurutkan data berdasarkan input sejumlah
 data (minimal 3 variable input atau lebih), kemudian tampilkan
 hasilnya secara berurutan mulai dari data terkecil.<br
 
-[ Gambar 1 ](perulangan/lat2.png)
+![ Gambar 1 ](perulangan/lat2.png)
 
 Hasil Output
 
-[ Gambar 2 ](perulangan/lat2.1.png)
+![ Gambar 2 ](perulangan/lat2.1.png)
 
 Penjelasan <br>
 line 1 mencetak string "Program Mengurutkan Data"
@@ -41,11 +41,11 @@ line 20-21 mencetak hasil perbandingan dengan menggunakan bubble sort
 
 Buat program dengan perulangan bertingkat (nested) for.
 
-[ Gambar 3 ](perulangan/lat3.png)
+![ Gambar 3 ](perulangan/lat3.png)
 
 Hasil Output
 
-[ Gambar 4 ](perulangan/lat3.1.png)
+![ Gambar 4 ](perulangan/lat3.1.png)
 
 ##Latihan 4
 
@@ -54,11 +54,11 @@ nilai n diisi pada saat runtime
 anda bisa menggunakan kombinasi while dan for untuk
 menyelesaikannya.
 
-[ Gambar 5 ](perulangan/lat4.png)
+![ Gambar 5 ](perulangan/lat4.png)
 
 Hasil Output
 
-[ Gambar 6 ](perulangan/lat4.1.png)
+![ Gambar 6 ](perulangan/lat4.1.png)
 cekcek
 "Belum Selesai" 
 "up gambar" 
